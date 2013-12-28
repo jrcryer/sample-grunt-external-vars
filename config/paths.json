@@ -1,0 +1,10 @@
+{
+    "images": "static/img",
+    "js": {
+        "app": "static/js",
+        "vendors": "static/vendors",
+        "test": "tests/js"
+    },
+    "css": "static/styles",
+    "less": "static/less"
+}
